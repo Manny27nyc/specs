@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 'use strict';
 
 {{ $searchDataFile := printf "%s.search-data.js" .Language.Lang }}

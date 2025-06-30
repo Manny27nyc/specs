@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import renderMathInElement from 'katex/dist/contrib/auto-render.mjs'
 
 function renderKatex(target) {

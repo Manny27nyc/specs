@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 //This is the service worker with the Advanced caching
 
 importScripts(

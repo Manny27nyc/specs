@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const cacheName = self.location.pathname
 const pages = [
 {{ if eq .Site.Params.BookServiceWorker "precache" }}

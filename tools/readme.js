@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #!/usr/bin/env node
 const vfile = require('to-vfile')
 const remark = require('remark')

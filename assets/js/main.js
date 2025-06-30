@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import '@pwabuilder/pwaupdate'
 import tablesort from 'tablesort'
 import Gumshoe from 'gumshoejs'

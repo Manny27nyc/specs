@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // [
 //   { text: "Foo", id: "foo", tagName: 'h1', children: [
 //     { text: "Xyz", id: "xyz", tagName: 'h2', children: [

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const Router = require('./src/router')
 const dlv = require('dlv')
 const get = require('./src/get')
